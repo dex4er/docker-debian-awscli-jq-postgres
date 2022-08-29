@@ -1,8 +1,8 @@
 ## $ docker build --tag dex4er/debian-awscli-jq-postgres --squash .
 
-ARG ASDF_DEBIAN_TAG=latest
+ARG DEBIAN_ASDF_TAG=latest
 
-FROM dex4er/debian-asdf:${ASDF_DEBIAN_TAG}
+FROM dex4er/debian-asdf:${DEBIAN_ASDF_TAG}
 
 COPY .tool-versions /root/
 
