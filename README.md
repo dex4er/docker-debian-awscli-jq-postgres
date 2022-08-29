@@ -1,6 +1,6 @@
 # docker-debian-awscli-jq-postgres
 
-[![GitHub](https://img.shields.io/github/v/tag/dex4er/docker-debian-awscli-jq-postgres)](https://github.com/dex4er/docker-debian-awscli-jq-postgres)
+[![GitHub](https://img.shields.io/github/v/tag/dex4er/docker-debian-awscli-jq-postgres?label=GitHub)](https://github.com/dex4er/docker-debian-awscli-jq-postgres)
 [![CI](https://github.com/dex4er/docker-debian-awscli-jq-postgres/actions/workflows/ci.yaml/badge.svg)](https://github.com/dex4er/docker-debian-awscli-jq-postgres/actions/workflows/ci.yaml)
 [![Lint](https://github.com/dex4er/docker-debian-awscli-jq-postgres/actions/workflows/lint.yaml/badge.svg)](https://github.com/dex4er/docker-debian-awscli-jq-postgres/actions/workflows/lint.yaml)
 [![Docker Image Version](https://img.shields.io/docker/v/dex4er/debian-awscli-jq-postgres/latest?label=docker&logo=docker)](https://hub.docker.com/r/dex4er/debian-awscli-jq-postgres)
